@@ -7,6 +7,15 @@
     <groupId>com.chenyuan</groupId>
     <artifactId>ApiTestInfo</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.testng/testng -->
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>6.13</version>
+        </dependency>
+
+    </dependencies>
 
 
 </project>
